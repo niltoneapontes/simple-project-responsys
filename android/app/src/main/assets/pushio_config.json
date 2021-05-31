@@ -1,0 +1,15 @@
+{
+  "pushio": {
+    "appName": "example",
+    "platformName": "Example",
+    "platform_type": "gcm",
+    "apiKey": "Your_api_key",
+    "apiHost": "api.pushio.com",
+    "accountToken": "Your_account_token",
+    "conversionUrl": "https://example.com",
+    "riAppId": "Your_riAppId"
+  },
+  "google": {
+    "projectId": "Your_project_id"
+  }
+}
