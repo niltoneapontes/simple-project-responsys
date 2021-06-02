@@ -5086,6 +5086,12 @@ react-native-codegen@^0.0.6:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
+"react-native-pushiomanager@https://github.com/oracle/pushiomanager-react-native.git":
+  version "6.48.0"
+  resolved "https://github.com/oracle/pushiomanager-react-native.git#0c6d2c38fda8aa648feacbfa15b835dc147379dc"
+  dependencies:
+    invariant "^2.2.4"
+
 react-native@0.64.1:
   version "0.64.1"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.64.1.tgz#cd38f5b47b085549686f34eb0c9dcd466f307635"

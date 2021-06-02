@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">simpleProject</string>
+    <string name="uri_identifier">pio-MyProjectKey</string>
 </resources>
